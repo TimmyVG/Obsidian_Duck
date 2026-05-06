@@ -1,3 +1,11 @@
+---
+header-auto-numbering:
+  - state on
+  - start-level h2
+  - end-level h6
+  - start-at 1
+  - separator .
+---
 
 # Concepto y Diseño
 
