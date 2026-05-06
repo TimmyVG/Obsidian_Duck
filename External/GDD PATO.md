@@ -17,7 +17,7 @@ The game in a tweet: one or two sentences at most that say what the game is and 
 
 En una pequeña piscina de agua irán apareciendo patos. Tu objetivo será hacer clic en los patos de goma hasta bajarles la vida y obtener sus puntos (PTS).
 
- Con ellos, podrás comprar mejoras (al feriante) que te permitirán conseguir que aparezcan más patos o conseguirlos más fácilmente. (Puede que tengas que gastar todas tus mejoras en una recompensa mejor a largo plazo)
+ - Con ellos, podrás comprar mejoras (al feriante) que te permitirán conseguir que aparezcan más patos o conseguirlos más fácilmente. (Puede que tengas que gastar todas tus mejoras en una recompensa mejor a largo plazo)
 
 Alcanzar el final del juego será la mayor recompensa, ya que tu único propósito es llegar a conocer al legendario pato dorado del que todo el mundo habla.
 
