@@ -1,21 +1,4 @@
 
-- [[#GAME IDEA|GAME IDEA]]
-- [[#THE PURPOSE OF CREATING THIS GAME|THE PURPOSE OF CREATING THIS GAME]]
-- [[#DECLARACIÓN DE CONCEPTO|DECLARACIÓN DE CONCEPTO]]
-- [[#REFERENCES|REFERENCES]]
-- [[#GENRE|GENRE]]
-- [[#TARGET AUDIENCE|TARGET AUDIENCE]]
-- [[#UNIQUE SELLING POINTS|UNIQUE SELLING POINTS]]
-- [[#PLAYER EXPERIENCE AND GAME POV|PLAYER EXPERIENCE AND GAME POV]]
-- [[#GAMEPLAY GOAL/S|GAMEPLAY GOAL/S]]
-- [[#VISUAL AND AUDIO STYLE|VISUAL AND AUDIO STYLE]]
-- [[#GAME WORLD FICTION|GAME WORLD FICTION]]
-- [[#MONETIZACIÓN|MONETIZACIÓN]]
-- [[#PLATFORM, TECHNOLOGY, AND SCOPE (brief)|PLATFORM, TECHNOLOGY, AND SCOPE (brief)]]
-- [[#SCOPE|SCOPE]]
-- [[#SkillTree|SkillTree]]
-
-
 # Concepto y Diseño
 
 ## GAME IDEA
@@ -42,43 +25,34 @@ Alcanzar el final del juego será la mayor recompensa, ya que tu único propósi
 
 ## REFERENCES
 
-Gameplay
+### Gameplay
 
-- [Space Rock Breaker](https://store.steampowered.com/app/4035270?snr=5000_5100__) / [Berry Bury Berry](https://store.steampowered.com/app/3370870/Berry_Bury_Berry/)
+- [Space Rock Breaker](https://store.steampowered.com/app/4035270?snr=5000_5100__) 
+- [Berry Bury Berry](https://store.steampowered.com/app/3370870/Berry_Bury_Berry/)
     
 
-Fórmula de tiempo
+### Fórmula de tiempo
 
 - [SCOPECREEP ](https://store.steampowered.com/app/3955580/SCOPECREEP_Demo/)Diseño del árbol de habilidades y formula de tiempo
     
 
   
-Art Style
+### Art Style
 
 - [Space Rock Breaker](https://store.steampowered.com/app/4035270?snr=5000_5100__) 
-    
-
-Visión de la cámara en gameplay
-
-3D low poly shader pixel art
+    Visión de la cámara en gameplay
+	3D low poly shader pixel art
 
 -  [Berry Bury Berry](https://store.steampowered.com/app/3370870/Berry_Bury_Berry/)
-    
-
-Estética de feria.
-
-Que se sienta plasticoso y cutre en el aspecto estetico.  
-
-Colores saturados
-
-- Play2 Gráficos
-    
-
-Retro, pocos polígonos, texturas planas. 
+    Estética de feria.
+    Que se sienta plasticoso y cutre en el aspecto estetico.  
+	Colores saturados
+	Play 2 Gráficos
+    Retro, pocos polígonos, texturas planas. 
 
 ## GENRE
 
-Single genre is clearer but often less interesting. Genre combinations can be risky. Beware of ‘tired’ genres.
+> Single genre is clearer but often less interesting. Genre combinations can be risky. Beware of ‘tired’ genres.
 
 Clicker-incremental.
 
