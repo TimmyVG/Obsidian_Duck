@@ -1,7 +1,19 @@
+filters:
+  and:
+    - file.tags.contains("Skill-Tree-Upgrade")
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.inFolder("remote-duck/Design/SkillTree/Upgrades")
     order:
-      - file.name
+      - file.basename
+      - Max-Level
+    sort:
+      - property: Max-Level
+        direction: ASC
+      - property: file.name
+        direction: ASC
   - type: table
     name: View
