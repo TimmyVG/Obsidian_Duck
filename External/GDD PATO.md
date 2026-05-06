@@ -52,6 +52,8 @@ Alcanzar el final del juego será la mayor recompensa, ya que tu único propósi
 
 ## GENRE
 
+
+> [!NOTE]
 > Single genre is clearer but often less interesting. Genre combinations can be risky. Beware of ‘tired’ genres.
 
 Clicker-incremental.
