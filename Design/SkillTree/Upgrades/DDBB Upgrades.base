@@ -12,8 +12,6 @@ views:
       - Max-Level
       - Type
     sort:
-      - property: Max-Level
-        direction: ASC
       - property: file.name
         direction: ASC
     columnSize:

@@ -1,1 +1,42 @@
-{}
+{
+	"nodes":[
+		{
+			"id":"890cd099a23d8358",
+			"type":"text",
+			"text":"[[Base Upgrade]]",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-120,
+			"y":0,
+			"width":260,
+			"height":220
+		},
+		{
+			"id":"0c3cceb14fba2e4d",
+			"type":"file",
+			"file":"Assets/images.webp",
+			"styleAttributes":{"border":"dotted"},
+			"x":-220,
+			"y":-380,
+			"width":400,
+			"height":275
+		}
+	],
+	"edges":[
+		{
+			"id":"bcd7f93cdc4fd7b9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0c3cceb14fba2e4d",
+			"fromSide":"top",
+			"toNode":"bd0689fe4807ea42",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"3448d4a9d5e2d9a7"
+	}
+}
