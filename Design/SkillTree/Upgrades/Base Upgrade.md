@@ -6,4 +6,4 @@ Max-Level: 3
 Type: Passive
 completed: true
 ---
-![[images.webp]]
+Tiene relacion con [[Base Upgrade 1]]

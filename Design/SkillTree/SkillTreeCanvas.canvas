@@ -22,16 +22,6 @@
 			"color":"1"
 		},
 		{"id":"57283b05590876b7","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1 1.md","x":-40,"y":-780,"width":400,"height":400},
-		{
-			"id":"e0d388cb586ec350",
-			"type":"text",
-			"text":"```dataview\nTable Max-Level,Completed\n\nFrom #Skill-Tree-Upgrade \n```",
-			"styleAttributes":{},
-			"x":-800,
-			"y":-1220,
-			"width":420,
-			"height":210
-		},
 		{"id":"884e8fa0e120fbbf","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":-1700,"y":-1580,"width":660,"height":180},
 		{"id":"cbb08ad93a1a322c","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":600,"y":-1980,"width":400,"height":400},
 		{"id":"9091af0d3fab02cd","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1.md","x":600,"y":-740,"width":400,"height":420}
