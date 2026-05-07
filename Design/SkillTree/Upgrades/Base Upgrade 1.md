@@ -43,4 +43,15 @@ for (const p of pages) {
 
 	dv.container.appendChild(container)
 }
+
+  
+let total = 0  
+  
+for (const p of pages) {  
+  
+if (p.completed)  
+total += p.maxLevel ?? 0  
+}  
+  
+dv.paragraph(total)
 ```
