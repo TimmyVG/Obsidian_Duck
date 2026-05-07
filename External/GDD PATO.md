@@ -129,7 +129,7 @@ What is the “look and feel” of the game? How does this support the desired p
 > [!info]-
 Briefly describe the game world and any narrative in player-relevant terms (as presented to the player).
 
-Una feria en eeuu con estética de los 90s (carnival core) 
+Una feria en EEUU con estética de los 90s (carnival core) 
 
 ## MONETIZACIÓN
 > [!info]-

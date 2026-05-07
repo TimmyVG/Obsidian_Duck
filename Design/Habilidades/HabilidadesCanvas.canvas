@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"aa32db8b4406f691","type":"file","file":"remote-duck/Design/Habilidades/HabilidadesBase.base","x":-540,"y":-260,"width":660,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
