@@ -11,6 +11,7 @@ views:
       - file.basename
       - Max-Level
       - Type
+      - completed
     sort:
       - property: file.name
         direction: ASC

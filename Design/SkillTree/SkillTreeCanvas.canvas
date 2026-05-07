@@ -12,20 +12,31 @@
 			"width":260,
 			"height":220
 		},
+		{"id":"884e8fa0e120fbbf","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":-1540,"y":-1460,"width":660,"height":180},
+		{
+			"id":"4e4abba025ae3215",
+			"type":"text",
+			"text":"```dataviewjs\nconst upgrades = dv.pages(\"#Skill-Tree-Upgrade\")  \n  \nlet total = 0  \n\nfor (const u of upgrades) {  \ntotal += u.maxLevel ?? u[\"max-level\"] ?? 0  \n}  \n  \n  \ndv.paragraph(` Total maxLevel: ${total} `)\n\nlet totalCompleted = 0\n\nfor (const u of upgrades) {  \n\tif (u[\"completed\"])\n\t\ttotalCompleted += u.maxLevel ?? u[\"max-level\"] ?? 0  \n}  \n\ndv.paragraph(` Total level completados: ${totalCompleted} `)\n\n\n\n\n```",
+			"styleAttributes":{},
+			"x":-1700,
+			"y":-1220,
+			"width":900,
+			"height":260
+		},
 		{
 			"id":"ff48d57e80164f46",
 			"type":"file",
 			"file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade.md",
 			"styleAttributes":{"border":"dotted"},
-			"x":-120,
-			"y":-1400,
+			"x":600,
+			"y":-1460,
 			"width":400,
 			"height":580,
 			"color":"1"
 		},
-		{"id":"57283b05590876b7","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1 1.md","x":-760,"y":-720,"width":400,"height":400},
-		{"id":"9091af0d3fab02cd","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1.md","x":-120,"y":-620,"width":400,"height":400},
-		{"id":"cbb08ad93a1a322c","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":-120,"y":-2040,"width":400,"height":400}
+		{"id":"57283b05590876b7","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1 1.md","x":-40,"y":-780,"width":400,"height":400},
+		{"id":"9091af0d3fab02cd","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1.md","x":600,"y":-680,"width":400,"height":400},
+		{"id":"cbb08ad93a1a322c","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":600,"y":-2100,"width":400,"height":400}
 	],
 	"edges":[
 		{

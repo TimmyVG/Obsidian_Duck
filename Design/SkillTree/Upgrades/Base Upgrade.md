@@ -4,5 +4,6 @@ tags:
   - Skill-Tree-Upgrade
 Max-Level: 3
 Type: Passive
+completed: true
 ---
 ![[images.webp]]
