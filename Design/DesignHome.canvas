@@ -7,9 +7,9 @@
 		{"id":"5fbe06acca97c993","type":"group","x":-142,"y":-560,"width":400,"height":520,"label":"SkillTree"},
 		{"id":"a802f82324f83f9d","type":"group","x":360,"y":-560,"width":400,"height":500,"label":"Habilidades"},
 		{"id":"4dc2bd86d5a08215","type":"file","file":"remote-duck/Design/SkillTree/SkillTreeCanvas.canvas","x":-142,"y":-460,"width":400,"height":400},
-		{"id":"2df9a1f4ceea0f5f","type":"file","file":"Assets/Images-Imported/images.webp","x":142,"y":-540,"width":116,"height":80},
+		{"id":"2df9a1f4ceea0f5f","type":"file","file":"remote-duck/Assets/Images-Imported/images.webp","x":142,"y":-540,"width":116,"height":80},
 		{"id":"8d6fb02780e9441e","type":"file","file":"remote-duck/Design/Habilidades/HabilidadesCanvas.canvas","x":360,"y":-460,"width":400,"height":400},
-		{"id":"e904dcb01fb5d05b","type":"file","file":"Assets/Images-Imported/images.webp","x":644,"y":-540,"width":116,"height":80}
+		{"id":"e904dcb01fb5d05b","type":"file","file":"remote-duck/Assets/Images-Imported/images.webp","x":644,"y":-540,"width":116,"height":80}
 	],
 	"edges":[]
 }
