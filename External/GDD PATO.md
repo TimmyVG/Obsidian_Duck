@@ -1,3 +1,6 @@
+---
+covers: "[[images.webp]]"
+---
 
 # Concepto y Diseño
 
