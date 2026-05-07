@@ -5,4 +5,4 @@ tags:
 Max-Level: 3
 Type: Passive
 ---
-AAA
+![[images.webp]]
