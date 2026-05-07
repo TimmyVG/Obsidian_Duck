@@ -10,10 +10,13 @@ views:
     order:
       - file.basename
       - Max-Level
+      - Type
     sort:
       - property: Max-Level
         direction: ASC
       - property: file.name
         direction: ASC
+    columnSize:
+      note.Max-Level: 129
   - type: table
     name: View
