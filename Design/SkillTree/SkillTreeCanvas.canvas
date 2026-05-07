@@ -7,31 +7,53 @@
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-120,
-			"y":0,
+			"x":540,
+			"y":100,
 			"width":260,
 			"height":220
 		},
 		{
-			"id":"0c3cceb14fba2e4d",
+			"id":"ff48d57e80164f46",
 			"type":"file",
-			"file":"Assets/images.webp",
+			"file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade.md",
 			"styleAttributes":{"border":"dotted"},
-			"x":-220,
-			"y":-380,
+			"x":-120,
+			"y":-1400,
 			"width":400,
-			"height":275
-		}
+			"height":400,
+			"color":"1"
+		},
+		{"id":"57283b05590876b7","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1 1.md","x":-760,"y":-720,"width":400,"height":400},
+		{"id":"9091af0d3fab02cd","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1.md","x":-120,"y":-620,"width":400,"height":400},
+		{"id":"cbb08ad93a1a322c","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":-120,"y":-2040,"width":400,"height":400}
 	],
 	"edges":[
 		{
-			"id":"bcd7f93cdc4fd7b9",
+			"id":"6a64a8a9e6569537",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"0c3cceb14fba2e4d",
-			"fromSide":"top",
-			"toNode":"bd0689fe4807ea42",
-			"toSide":"bottom"
+			"fromNode":"ff48d57e80164f46",
+			"fromSide":"bottom",
+			"toNode":"57283b05590876b7",
+			"toSide":"top"
+		},
+		{
+			"id":"f273d43cb470039b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ff48d57e80164f46",
+			"fromSide":"bottom",
+			"toNode":"9091af0d3fab02cd",
+			"toSide":"top"
+		},
+		{
+			"id":"05b81ff1d8cb78bb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cbb08ad93a1a322c",
+			"fromSide":"bottom",
+			"toNode":"ff48d57e80164f46",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
