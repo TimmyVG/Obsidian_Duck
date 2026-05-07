@@ -22,3 +22,25 @@ FROM #Skill-Tree-Upgrade
 
 ```
 
+const pages = dv.pages("#Skill-Tree-Upgrade")
+
+```dataviewjs
+const pages = dv.pages("#Skill-Tree-Upgrade")
+
+for (const p of pages) {
+
+	const checkbox = document.createElement("input")
+	checkbox.type = "checkbox"
+	checkbox.checked = p.completed ?? false
+
+	const label = document.createElement("span")
+	label.textContent = " " + p.file.name
+
+	const container = document.createElement("div")
+
+	container.appendChild(checkbox)
+	container.appendChild(label)
+
+	dv.container.appendChild(container)
+}
+```
