@@ -34,17 +34,7 @@
 		},
 		{"id":"884e8fa0e120fbbf","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":-1700,"y":-1580,"width":660,"height":180},
 		{"id":"cbb08ad93a1a322c","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":600,"y":-1980,"width":400,"height":400},
-		{"id":"9091af0d3fab02cd","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1.md","x":600,"y":-740,"width":400,"height":420},
-		{
-			"id":"50f0820cb973bc67",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-1060,
-			"y":-980,
-			"width":260,
-			"height":60
-		}
+		{"id":"9091af0d3fab02cd","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/Base Upgrade 1.md","x":600,"y":-740,"width":400,"height":420}
 	],
 	"edges":[
 		{
