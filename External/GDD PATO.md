@@ -1,5 +1,5 @@
 ---
-covers: "[[images.webp]]"
+covers:
 ---
 
 # Concepto y Diseño
@@ -15,7 +15,7 @@ Crear un juego adictivo con una curva de progresión equilibrada: que no genere 
 Debe ser una experiencia satisfactoria, donde cada interacción (Cada clic) provoque esa pequeña recompensa mental que impulse al jugador a seguir avanzando y a completar todo el árbol de habilidades.
 
 ## DECLARACIÓN DE CONCEPTO
-
+> [!info]-
 The game in a tweet: one or two sentences at most that say what the game is and why it’s fun.
 
 En una pequeña piscina de agua irán apareciendo patos. Tu objetivo será hacer clic en los patos de goma hasta bajarles la vida y obtener sus puntos (PTS).
@@ -56,7 +56,7 @@ Alcanzar el final del juego será la mayor recompensa, ya que tu único propósi
 ## GENRE
 
 
-> [!NOTE]
+> [!info]-
 > Single genre is clearer but often less interesting. Genre combinations can be risky. Beware of ‘tired’ genres.
 
 Clicker-incremental.
@@ -66,7 +66,7 @@ Un clicker-incremental es un tipo de videojuego en el que el progreso del jugado
   
 
 ## TARGET AUDIENCE
-
+> [!info]-
 Motivations and relevant interests; potentially age, gender, etc.; and the desired ESRB rating for the game.
 
 Se trata de un jugador adulto, habitual de este tipo de géneros, que se siente atraído por la sensación de progreso constante, el placer de ver crecer los números y la satisfacción de automatizar procesos.
@@ -76,7 +76,7 @@ Es un público bastante de nicho; como referencia, podría encajar con el perfil
 La intención es generar una experiencia casi “adictiva” a nivel mental, apoyada en una fórmula visual y estética de corte cute.
 
 ## UNIQUE SELLING POINTS
-
+> [!info]-
 Critically important. What makes your game stand out? How is it different from all other games?
 
 La estética de Carnival, junto con la propuesta de generar combos usando habilidades activables (algo que tiene Berry Bury Berry, pero que no desarrolla con mucha profundidad) junto con explorar el concepto de que haya multiplicadores que se potencian cuando se obtienen patos de seguido pero se pierde cuando los patos se hunden a mitad del proceso.
@@ -84,7 +84,7 @@ La estética de Carnival, junto con la propuesta de generar combos usando habili
 # PRODUCT DESIGN
 
 ## PLAYER EXPERIENCE AND GAME POV
-
+> [!info]-
 Who is the player? What is the setting? What is the fantasy the game grants the player? What emotions do you want the player to feel? What keeps the player engaged for the duration of their play?
 
 ??
@@ -104,7 +104,7 @@ El mid-game se basará en utilizar las habilidades y los clicks de forma óptima
 El end-game se basará en buscar la mejor estrategía que acerque la pared numérica, que separa al jugador del pato dorado. (El final)
 
 ## VISUAL AND AUDIO STYLE
-
+> [!info]-
 What is the “look and feel” of the game? How does this support the desired player’s experience? What concept art or reference art can you show to give the feel of the game?
 
 - Visual: [https://pin.it/24LYX4BE3](https://pin.it/24LYX4BE3)  
@@ -126,19 +126,19 @@ What is the “look and feel” of the game? How does this support the desired p
   
 
 ## GAME WORLD FICTION
-
+> [!info]-
 Briefly describe the game world and any narrative in player-relevant terms (as presented to the player).
 
 Una feria en eeuu con estética de los 90s (carnival core) 
 
 ## MONETIZACIÓN
-
+> [!info]-
 How will the game make money? Premium purchase? F2P? How do you justify this within the design?
 
 ??
 
 ## PLATFORM, TECHNOLOGY, AND SCOPE (brief)
-
+> [!info]-
 PC or mobile? Table or phone? 2D or 3D? Unity or Javascript? How long to make, and how big a team? How long to first-playable? How long to complete the game? Major risks?
 
 - Device: PC Mouse. 
