@@ -5,6 +5,6 @@ tags:
 Type:
   - Active
 Max-Level: 2
-completed: false
+completed: true
 ---
 
