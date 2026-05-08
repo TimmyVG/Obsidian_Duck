@@ -24,7 +24,8 @@
 			"width":900,
 			"height":260
 		},
-		{"id":"cbb08ad93a1a322c","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":580,"y":-2340,"width":400,"height":400}
+		{"id":"cbb08ad93a1a322c","type":"file","file":"remote-duck/Design/SkillTree/Upgrades/DDBB Upgrades.base","x":580,"y":-2340,"width":400,"height":400},
+		{"id":"8665010874d816a1","type":"file","file":"remote-duck/Drawing 2026-05-08 13.26.53.excalidraw.md","x":-800,"y":-2080,"width":960,"height":500}
 	],
 	"edges":[
 		{
